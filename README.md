@@ -1,3 +1,9 @@
+This project includes my studies with React. On the Udemy course, we will walk through ES6 - Router - Context- StrictMode- Refs- TypeChecking - propTypes - renderProps - Portals.
+
+You can see applying browserRouter, Switch and exact, Links, NavLinks, Redirect, 404 notFound Route , match & url parameters, history & url routing.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
