@@ -1,4 +1,4 @@
-This project includes my studies with React. On the Udemy course, we will walk through ES6 - Router - Context- StrictMode- Refs- TypeChecking - propTypes - renderProps - Portals.
+This project includes my studies with React. On the Udemy course (https://www.udemy.com/course/reactjs-ogren/learn/lecture/20156714#content), we will walk through ES6 - Router - Context- StrictMode- Refs- TypeChecking - propTypes - renderProps - Portals.
 
 You can see applying browserRouter, Switch and exact, Links, NavLinks, Redirect, 404 notFound Route , match & url parameters, history & url routing.
 
